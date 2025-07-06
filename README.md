@@ -14,4 +14,13 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/hasib-al4/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/hasib-al4/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/hasib-al4/LeetCode/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hasib-al4/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hasib-al4/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
