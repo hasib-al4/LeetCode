@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hasib-al4/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0090-subsets-ii](https://github.com/hasib-al4/LeetCode/tree/master/0090-subsets-ii) |
 ## Trie
 |  |
 | ------- |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/hasib-al4/LeetCode/tree/master/0242-valid-anagram) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/hasib-al4/LeetCode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/hasib-al4/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
