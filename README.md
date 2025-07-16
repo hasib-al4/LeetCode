@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hasib-al4/LeetCode/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/hasib-al4/LeetCode/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/hasib-al4/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/hasib-al4/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
