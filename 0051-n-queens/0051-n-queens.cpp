@@ -1,37 +1,21 @@
 class Solution {
 public:
-    bool acceptable(int row, int col, vector<string> board, int n) {
-        int dumRow = row;
-        int dumCol = col;
-        while(row >= 0 && col >= 0) {
-            if(board[row][col] == 'Q') return false;
-            row--;
-            col--;
-        }
-        row = dumRow;
-        col = dumCol;
-        while(col >= 0) {
-            if(board[row][col] == 'Q') return false;
-            col--;
-        }
-        col = dumCol;
-        while(row < n && col >= 0) {
-            if(board[row][col] == 'Q') return false;
-            row++;
-            col--;
-        }
-        return true;
-    }
-    void queens(int col, vector<string> &board, vector<vector<string>> &ans, int n) {
+    void queens(int col, vector<string> &board, vector<vector<string>> &ans, int n, vector<int> &leftRow, vector<int> &upperDiag, vector<int> &lowerDiag) {
         if(col == n) {
             ans.push_back(board);
             return;
         }
         for(int row = 0; row < n; row++) {
-            if(acceptable(row, col, board, n)) {
+            if(!leftRow[row] && !upperDiag[(n - 1) + (col - row)] && !lowerDiag[col + row]) {
                 board[row][col] = 'Q';
-                queens(col + 1, board, ans, n);
+                leftRow[row] = 1;
+                upperDiag[(n - 1) + (col - row)] = 1;
+                lowerDiag[col + row] = 1;
+                queens(col + 1, board, ans, n, leftRow, upperDiag, lowerDiag);
                 board[row][col] = '.';
+                leftRow[row] = 0;
+                upperDiag[(n - 1) + (col - row)] = 0;
+                lowerDiag[col + row] = 0;
             }
         }
     }
@@ -39,10 +23,11 @@ public:
         vector<vector<string>> ans;
         vector<string> board(n);
         string arr(n,'.');
+        vector<int> leftRow(n, 0), upperDiag((2 * n) - 1, 0), lowerDiag((2 * n) - 1, 0);
         for(int i = 0; i < n; i++) {
             board[i] = arr;
         }
-        queens(0, board, ans, n);
+        queens(0, board, ans, n, leftRow, upperDiag, lowerDiag);
         return ans;
     }
 };
