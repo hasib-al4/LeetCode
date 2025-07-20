@@ -17,6 +17,7 @@
 | [0008-string-to-integer-atoi](https://github.com/hasib-al4/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/hasib-al4/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hasib-al4/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/hasib-al4/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hasib-al4/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/hasib-al4/LeetCode/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/hasib-al4/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -78,4 +79,8 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hasib-al4/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hasib-al4/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hasib-al4/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
