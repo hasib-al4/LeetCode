@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/hasib-al4/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/hasib-al4/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/hasib-al4/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0046-permutations](https://github.com/hasib-al4/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hasib-al4/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/hasib-al4/LeetCode/tree/master/0090-subsets-ii) |
+| [0496-next-greater-element-i](https://github.com/hasib-al4/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hasib-al4/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Trie
 |  |
@@ -83,4 +85,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hasib-al4/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/hasib-al4/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hasib-al4/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
