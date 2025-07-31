@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/hasib-al4/LeetCode/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/hasib-al4/LeetCode/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/hasib-al4/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hasib-al4/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/hasib-al4/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hasib-al4/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -37,6 +38,7 @@
 | [0046-permutations](https://github.com/hasib-al4/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hasib-al4/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/hasib-al4/LeetCode/tree/master/0090-subsets-ii) |
+| [0217-contains-duplicate](https://github.com/hasib-al4/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/hasib-al4/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hasib-al4/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Trie
@@ -56,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hasib-al4/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hasib-al4/LeetCode/tree/master/0242-valid-anagram) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/hasib-al4/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
